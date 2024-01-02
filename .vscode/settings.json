@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        "[Monokai Pro]": {
+            "editorInlayHint.background": "#f8f8f200",
+            "editorInlayHint.foreground": "#f8f8f280"
+        },
+        "editorCursor.foreground": "#fea726",
+        "editorCursor.background": "#000000",
+        "editor.wordHighlightBackground": "#3fea9a11",
+        "editor.selectionBackground": "#25a76a55",
+        "editor.findMatchBackground": "#34c78279",
+        "activityBar.background": "#073516",
+        "titleBar.activeBackground": "#0A4B1F",
+        "titleBar.activeForeground": "#F1FDF5"
+    }
+}
